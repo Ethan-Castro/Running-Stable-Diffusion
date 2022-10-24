@@ -1,17 +1,17 @@
 # stability-sdk
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stability-ai/stability-sdk/blob/main/nbs/demo_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/stability-ai/stability-sdk/blob/main/nbs/demo_colab.ipynb#scrollTo=qjvYisn1O-_P)](https://colab.research.google.com/github/stability-ai/stability-sdk/blob/main/nbs/demo_colab.ipynb)
 
 Client implementations that interact with the Stability Generator API
 
 # Installation
 
-Install the PyPI package via:
+Install the PyPI package by running:
 
 `pip install stability-sdk`
 
 # Getting an API key
-You can manage API keys in your dreamstudio account [here](https://beta.dreamstudio.ai/membership?tab=apiKeys)
+You can get your API key in your dreamstudio account [here](https://beta.dreamstudio.ai/membership?tab=apiKeys)
 
 # Python client
 
